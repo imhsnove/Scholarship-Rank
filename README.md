@@ -24,10 +24,10 @@ Merge Sort was chosen because:
 **Precondition:** At least 2 applicants must be entered. The app validates all inputs before sorting.
 
 **What the user sees:**
-- 🟣 **Split steps** — where the list is divided in half
-- 🔵 **Compare steps** — which two applicants are being compared by score
-- 🟢 **Pick steps** — which applicant was selected (higher score wins)
-- 🟠 **Merge steps** — the newly merged (sorted) sublist
+-  **Split steps** — where the list is divided in half
+-  **Compare steps** — which two applicants are being compared by score
+-  **Pick steps** — which applicant was selected (higher score wins)
+-  **Merge steps** — the newly merged (sorted) sublist
 
 ---
 
@@ -137,7 +137,7 @@ Display ranked table + step log
 ```bash
 # 1. Clone the repo
 git clone https://github.com/<your-username>/cisc121-scholarship-sort
-cd cisc121-scholarship-sort
+cd cisc121-scholarship-rank
 
 # 2. Install dependencies
 pip install -r requirements.txt
@@ -175,7 +175,7 @@ Validation used Python's `sorted()` to cross-check merge sort output on every te
 
 ## Author & Acknowledgment
 
-- **Author:** [Your Name] · [Student ID]
+- **Author:** Hassan Ebrahimi · Student ID: 20514196
 - **Course:** CISC 121, Queen's University, W26
 - **AI use:** Claude (Anthropic) was used at Level 4 to assist with code structure, CSS design, and README drafting. All algorithmic logic was reviewed and understood by the author.
 - **References:**
