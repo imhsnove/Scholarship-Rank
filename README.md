@@ -152,7 +152,7 @@ Then open `http://127.0.0.1:7860` in your browser.
 
 ## Hugging Face Link
 
-> *(Add your deployed link here after uploading to Hugging Face Spaces)*
+> *[(Add your deployed link here after uploading to Hugging Face Spaces)](https://huggingface.co/spaces/imhsnove/scholarship-rank)*
 
 ---
 
