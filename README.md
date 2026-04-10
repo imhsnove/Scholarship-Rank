@@ -33,7 +33,8 @@ Merge Sort was chosen because:
 
 ## Demo
 
-*(Add a screenshot or GIF of a run here after deployment)*
+<img width="956" height="927" alt="image" src="https://github.com/user-attachments/assets/f58d3261-8dfc-44f5-b311-bbac333f92b2" />
+
 
 ---
 
@@ -74,7 +75,7 @@ Merge Sort repeatedly:
 User types applicant rows
         │
         ▼
-parse_applicants()  ← validates types, ranges, line format
+parse_applicants()  ← validates types, ranges, and line format
         │
         ▼
 compute_score()     ← weighted formula per applicant
@@ -101,7 +102,7 @@ Input: applicant list, top N
 Validate input → Error? ──Yes──► Show error message → END
   │ No
   ▼
-Compute score for each applicant
+Compute the score for each applicant
   │
   ▼
 merge_sort(list)
@@ -109,7 +110,7 @@ merge_sort(list)
   ├─ len ≤ 1? ──Yes──► return as-is
   │
   ▼
-Split list at midpoint
+Split the list at the midpoint
   │
   ├─► merge_sort(left half)
   └─► merge_sort(right half)
@@ -117,8 +118,8 @@ Split list at midpoint
           ▼
       merge(left, right)
         ├─ Compare front elements
-        ├─ Pick higher score
-        └─ Repeat until one half empty; append rest
+        ├─ Pick a higher score
+        └─ Repeat until one half empty; append the rest
           │
           ▼
       Return sorted list
