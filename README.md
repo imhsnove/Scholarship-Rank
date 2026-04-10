@@ -137,8 +137,8 @@ Display ranked table + step log
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/<your-username>/cisc121-scholarship-sort
-cd cisc121-scholarship-rank
+git clone https://github.com/imhsnove/Scholarship-Rank
+cd Scholarship-Rank
 
 # 2. Install dependencies
 pip install -r requirements.txt
