@@ -33,7 +33,8 @@ Merge Sort was chosen because:
 
 ## Demo
 
-<img width="956" height="927" alt="image" src="https://github.com/user-attachments/assets/f58d3261-8dfc-44f5-b311-bbac333f92b2" />
+<img width="653" height="810" alt="image" src="https://github.com/user-attachments/assets/67af3611-6fef-4044-9206-5c4e67c917b0" />
+
 
 
 ---
@@ -152,7 +153,7 @@ Then open `http://127.0.0.1:7860` in your browser.
 
 ## Hugging Face Link
 
-> *[(Add your deployed link here after uploading to Hugging Face Spaces)](https://huggingface.co/spaces/imhsnove/scholarship-rank)*
+https://huggingface.co/spaces/imhsnove/scholarship-rank
 
 ---
 
